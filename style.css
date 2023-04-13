@@ -1,0 +1,51 @@
+
+body{
+    background-color: rgb(255, 172, 224);
+}
+.main{
+    border: 1px solid black;
+    background-color: rgb(227, 227, 227);
+    width: 370px;
+    padding-bottom: 8px;
+    box-shadow: 3px 3px 6px rgb(0, 0, 0);
+}
+.c{
+    border-bottom: 1px solid black;
+}
+.min,
+.max{
+    padding-inline: 8px;
+    display: inline-block;
+    font-weight: bold;
+}
+.q{
+    display: inline-block;
+    margin-right: 70%;
+}
+.bo{   padding-inline: 8px;
+    border-bottom: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+
+    padding-right: 6px;
+    background-color: rgb(204, 204, 204);
+}
+.yn{
+    display: flex;
+    justify-content: space-between;
+    padding-inline: 8px;
+}
+.why{
+    padding-inline: 8px;  
+    padding-bottom: 18px;
+}
+.no{
+    background-color: rgb(255, 173, 173);
+}
+.yes{
+    background-color: rgb(161, 255, 163);
+}
+.all{
+    display: flex;
+    justify-content: center;
+}
